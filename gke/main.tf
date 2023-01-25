@@ -14,11 +14,11 @@ variable "gke_num_nodes" {
 }
 
 variable "project_id" {
-  description = "project id"
+  description = "devsnapchat"
 }
 
 variable "region" {
-  description = "region"
+  description = "us-west1"
 }
 
 provider "google" {
