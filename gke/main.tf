@@ -14,10 +14,12 @@ variable "gke_num_nodes" {
 }
 
 variable "project_id" {
+  default = "devsnapchat"
   description = "devsnapchat"
 }
 
 variable "region" {
+  default = "us-west1"
   description = "us-west1"
 }
 
