@@ -1,2 +1,2 @@
-project_id = "ricliu-gke-dev"
-region     = "us-central1"
+project_id = "devsnapchat"
+region     = "us-west1"
